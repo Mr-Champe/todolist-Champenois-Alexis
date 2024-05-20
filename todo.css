@@ -1,0 +1,25 @@
+.basse {
+    color: rgb(0, 235, 0);
+}
+
+.haute {
+    color: rgb(209, 0, 0);
+}
+
+input[type="checkbox"]:checked+label {
+    text-decoration: line-through;
+}
+
+body {
+    text-align: center;
+}
+
+main {
+    border: 2px solid black;
+    width: 30%;
+    margin: auto;
+}
+
+hr {
+    width: 70%;
+}
